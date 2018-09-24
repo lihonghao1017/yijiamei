@@ -1,0 +1,334 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:2:1-95:12
+INJECTED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:2:1-95:12
+INJECTED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:2:1-95:12
+INJECTED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:2:1-95:12
+MERGED from [com.auth0.android:jwtdecode:1.1.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\jwtdecode-1.1.1.aar\98d89af5bd64ae0cf50d1f51c6503c72\AndroidManifest.xml:2:1-12:12
+MERGED from [dev.dworks.libs:volleyplus:0.1.4] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\volleyplus-0.1.4.aar\17ba5c490d6478af00ad391046b0c8a6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c5b2fc28c48876f66f788c988cce0863\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\ca1d9fd647315e59a630ae5bc194cb2b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\cc2417f2ef1673699b7888e9318fec0a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\c3cce15cec8b6a18f425f80627af5cc6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b2330ac2dfcb461a019bf41a7dab86fe\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\64d4fe0aadf6a717903f4e246ded5633\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\efe6f9eeb615364f160c9a70a71084f1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9ed63d3455dc3153e96149f6b37250cf\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\cb1fe2f95bebfee2e844fd0610b449b1\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:2:1-95:12
+INJECTED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:2:1-95:12
+INJECTED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:2:1-95:12
+	package
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml
+		INJECTED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml
+		INJECTED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml
+		INJECTED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:9:22-63
+uses-feature#android.hardware.camera
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:10:5-60
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:10:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:11:5-70
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:11:19-67
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:12:22-68
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:18:22-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:20:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:21:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:22:5-73
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:22:22-70
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:23:5-89
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:23:22-86
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:24:22-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:26:22-76
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:27:5-72
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:27:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:28:5-73
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:28:22-70
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:29:5-69
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:29:22-66
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:30:5-74
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:30:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:31:5-68
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:31:22-65
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:32:5-81
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:32:22-78
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:33:5-75
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:33:22-72
+uses-permission#android.permission.REORDER_TASKS
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:36:5-72
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:36:22-69
+uses-permission#android.hardware.usb.accessory
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:37:5-70
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:37:22-67
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:38:5-75
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:38:22-72
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:39:5-72
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:39:22-69
+uses-permission#android.permission.WRITE_CALL_LOG
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:40:5-73
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:40:22-70
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:41:5-78
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:41:22-75
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:42:5-79
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:42:22-76
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:43:5-86
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:43:22-83
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:44:5-80
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:44:22-77
+uses-permission#android.bluetooth.adapter.action.STATE_CHANGED
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:45:5-86
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:45:22-83
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:46:5-80
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:46:22-77
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:47:5-68
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:47:22-65
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:48:5-84
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:48:22-81
+uses-permission#android.permission.BATTERY_STATS
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:49:5-71
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:49:22-69
+application
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:51:5-93:19
+MERGED from [dev.dworks.libs:volleyplus:0.1.4] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\volleyplus-0.1.4.aar\17ba5c490d6478af00ad391046b0c8a6\AndroidManifest.xml:9:5-20
+MERGED from [dev.dworks.libs:volleyplus:0.1.4] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\volleyplus-0.1.4.aar\17ba5c490d6478af00ad391046b0c8a6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c5b2fc28c48876f66f788c988cce0863\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c5b2fc28c48876f66f788c988cce0863\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\ca1d9fd647315e59a630ae5bc194cb2b\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\ca1d9fd647315e59a630ae5bc194cb2b\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\cc2417f2ef1673699b7888e9318fec0a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\cc2417f2ef1673699b7888e9318fec0a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\c3cce15cec8b6a18f425f80627af5cc6\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\c3cce15cec8b6a18f425f80627af5cc6\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b2330ac2dfcb461a019bf41a7dab86fe\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b2330ac2dfcb461a019bf41a7dab86fe\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\64d4fe0aadf6a717903f4e246ded5633\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\64d4fe0aadf6a717903f4e246ded5633\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\efe6f9eeb615364f160c9a70a71084f1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\efe6f9eeb615364f160c9a70a71084f1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9ed63d3455dc3153e96149f6b37250cf\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9ed63d3455dc3153e96149f6b37250cf\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\cb1fe2f95bebfee2e844fd0610b449b1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\cb1fe2f95bebfee2e844fd0610b449b1\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:54:9-41
+	android:icon
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:53:9-45
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:52:9-28
+activity#com.sucetech.yijiamei.MainActivity
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:57:9-65:20
+	android:label
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:59:13-45
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:58:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:60:13-64:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:61:17-69
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:61:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:63:17-77
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:63:27-74
+activity#com.ericssonlabs.BarCodeTestActivity
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:66:9-74:20
+	android:label
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:68:13-45
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:67:13-64
+intent-filter#android.intent.action.VIEW+android.intent.category.LAUNCHER
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:69:13-73:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:70:17-69
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:70:25-66
+activity#com.zxing.activity.CaptureActivity
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:76:9-82:20
+	android:screenOrientation
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:79:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:81:13-60
+	android:configChanges
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:77:13-63
+	android:theme
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:80:13-71
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:78:13-62
+provider#android.support.v4.content.FileProvider
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:84:9-92:20
+	android:grantUriPermissions
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:88:13-47
+	android:authorities
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:86:13-56
+	android:exported
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:87:13-37
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:85:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:89:13-91:53
+	android:resource
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:91:17-50
+	android:name
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml:90:17-67
+uses-sdk
+INJECTED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml
+INJECTED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml
+MERGED from [com.auth0.android:jwtdecode:1.1.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\jwtdecode-1.1.1.aar\98d89af5bd64ae0cf50d1f51c6503c72\AndroidManifest.xml:8:5-10:41
+MERGED from [com.auth0.android:jwtdecode:1.1.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\jwtdecode-1.1.1.aar\98d89af5bd64ae0cf50d1f51c6503c72\AndroidManifest.xml:8:5-10:41
+MERGED from [dev.dworks.libs:volleyplus:0.1.4] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\volleyplus-0.1.4.aar\17ba5c490d6478af00ad391046b0c8a6\AndroidManifest.xml:7:5-43
+MERGED from [dev.dworks.libs:volleyplus:0.1.4] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\volleyplus-0.1.4.aar\17ba5c490d6478af00ad391046b0c8a6\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c5b2fc28c48876f66f788c988cce0863\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c5b2fc28c48876f66f788c988cce0863\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\ca1d9fd647315e59a630ae5bc194cb2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\ca1d9fd647315e59a630ae5bc194cb2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\cc2417f2ef1673699b7888e9318fec0a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\cc2417f2ef1673699b7888e9318fec0a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\c3cce15cec8b6a18f425f80627af5cc6\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\c3cce15cec8b6a18f425f80627af5cc6\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b2330ac2dfcb461a019bf41a7dab86fe\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b2330ac2dfcb461a019bf41a7dab86fe\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\64d4fe0aadf6a717903f4e246ded5633\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\64d4fe0aadf6a717903f4e246ded5633\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\efe6f9eeb615364f160c9a70a71084f1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\efe6f9eeb615364f160c9a70a71084f1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9ed63d3455dc3153e96149f6b37250cf\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9ed63d3455dc3153e96149f6b37250cf\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\cb1fe2f95bebfee2e844fd0610b449b1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\cb1fe2f95bebfee2e844fd0610b449b1\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml
+INJECTED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c5b2fc28c48876f66f788c988cce0863\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml
+		INJECTED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml
+		ADDED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml
+		INJECTED from C:\Users\lihh\Desktop\BarCodeTest\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c5b2fc28c48876f66f788c988cce0863\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\ca1d9fd647315e59a630ae5bc194cb2b\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\ca1d9fd647315e59a630ae5bc194cb2b\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\cc2417f2ef1673699b7888e9318fec0a\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\cc2417f2ef1673699b7888e9318fec0a\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\c3cce15cec8b6a18f425f80627af5cc6\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\c3cce15cec8b6a18f425f80627af5cc6\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b2330ac2dfcb461a019bf41a7dab86fe\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b2330ac2dfcb461a019bf41a7dab86fe\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\64d4fe0aadf6a717903f4e246ded5633\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\64d4fe0aadf6a717903f4e246ded5633\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\efe6f9eeb615364f160c9a70a71084f1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\efe6f9eeb615364f160c9a70a71084f1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9ed63d3455dc3153e96149f6b37250cf\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9ed63d3455dc3153e96149f6b37250cf\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\cb1fe2f95bebfee2e844fd0610b449b1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\cb1fe2f95bebfee2e844fd0610b449b1\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c5b2fc28c48876f66f788c988cce0863\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lihh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c5b2fc28c48876f66f788c988cce0863\AndroidManifest.xml:26:9-47

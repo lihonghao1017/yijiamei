@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\lihh\Desktop\BarCodeTest\libs"><file name="httpmime-4.2.5.jar" path="C:\Users\lihh\Desktop\BarCodeTest\libs\httpmime-4.2.5.jar"/><file name="ScaleView.jar" path="C:\Users\lihh\Desktop\BarCodeTest\libs\ScaleView.jar"/><file name="zxing.jar" path="C:\Users\lihh\Desktop\BarCodeTest\libs\zxing.jar"/></source></dataSet><dataSet config="debug"><source path="C:\Users\lihh\Desktop\BarCodeTest\build-types\debug\jniLibs"/></dataSet></merger>
